@@ -7,9 +7,9 @@ It demonstrates secure login, encryption, transaction handling, and activity log
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🧩 Core Functionality
+### Core Functionality
 - **User Registration & Login**
   - Validates strong passwords
   - Prevents weak or duplicate usernames
@@ -30,12 +30,12 @@ It demonstrates secure login, encryption, transaction handling, and activity log
 
 ---
 
-## 👤 Developer Info
+## Developer Info
 **Shaheer — Roll: 12345 — Course: Cyber Security 101**
 
 ---
 
-## 🧠 Security Test Cases
+## Security Test Cases
 
 | # | Test Case | Expected Result |
 |---|------------|----------------|
